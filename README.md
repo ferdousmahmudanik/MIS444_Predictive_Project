@@ -59,30 +59,6 @@ Tenure: Customer loyalty increases significantly after 12 months.
 
 Internet Service: Fiber optic users show higher churn rates, suggesting potential service/pricing issues.
 
-💡 Strategic Recommendations
-
-Contract Migration: Offer incentives for month-to-month users to switch to 1-year plans.
-
-Onboarding Focus: Enhanced support for new customers in their first 90 days.
-
-Service Audit: Investigate Fiber Optic service quality and pricing.
-
-🚀 How to Use
-
-Clone the repository:
-
-git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-
-
-Install dependencies:
-
-pip install pandas scikit-learn seaborn matplotlib
-
-
-Run the notebook/script:
-
-python predictive_analytics.py
-
 
 
 
