@@ -1,5 +1,5 @@
 # MIS444_Predictive_Project
-#Retention_Predictor(Predict behavior to retain customers of IBM)
+# Retention_Predictor(Predict behavior to retain customers of IBM)
 
 Predictive Analytics project for customer churn using Python(MIS444)
 RetentionRadar is a predictive analytics solution developed for the MIS444 Course Project. The primary goal is to identify customers at risk of leaving a telecommunications provider (churning). By leveraging machine learning, the business can shift from reactive troubleshooting to proactive retention strategies.
