@@ -81,8 +81,5 @@ Run the notebook/script:
 python predictive_analytics.py
 
 
-Author: [Your Name]
 
-Course: MIS444 - Predictive Analytics in Business
 
-Date: January 2026
