@@ -4,7 +4,8 @@ RetentionRadar is a predictive analytics solution developed for the MIS444 Cours
 
 📊 Dataset
 
-Source: Kaggle Telco Customer Churn Dataset
+Source: Kaggle Telco Customer Churn Dataset 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Size: ~7,043 customer records.
 
